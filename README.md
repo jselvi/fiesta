@@ -1,2 +1,2 @@
 # fiesta
-Tool implementing side-channel attacks against HTTPS
+FIESTA recoded into Golang
