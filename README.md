@@ -33,6 +33,7 @@ Including a detailed description of each attack and writing the `doc.go` files i
 
 ## References
 
+* Cybercamp 2018 Workshop: [Video](https://www.youtube.com/watch?v=ke35QfxFIzY)
 * OWASP AppSec EU 2018: [Video](https://www.youtube.com/watch?v=u-drLKiyCSo) [Slides](https://2018.appsec.eu/presos/Hacker_FIESTA_Jose-Selvi_AppSecEU2018.pdf)
 * EkoParty 2017: [Video](https://www.youtube.com/watch?v=guZ30nXHkUg)
 
