@@ -4,8 +4,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/jselvi/fiesta/httpipe"
-	"github.com/jselvi/fiesta/tlsrelay"
+	"github.com/jselvi/fiesta/pkg/httpipe"
+	"github.com/jselvi/fiesta/pkg/tlsrelay"
 )
 
 const (
