@@ -1,8 +1,8 @@
 package main
 
 import (
-	"../../pkg/core"
 	"github.com/chzyer/readline"
+	"github.com/jselvi/fiesta/pkg/core"
 )
 
 func (p *fiestaPrompt) listAttacksFunc() func(string) []string {

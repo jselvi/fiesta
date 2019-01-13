@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"os"
 
-	"../../pkg/core"
 	"github.com/chzyer/readline"
+	"github.com/jselvi/fiesta/pkg/core"
 )
 
 type fiestaPrompt struct {
